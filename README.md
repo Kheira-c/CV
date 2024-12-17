@@ -1,2 +1,2 @@
 # CV
-![CV INTERACTIF](https://raw.githubusercontent.com/Kheira-c/images/refs/heads/main/github%20image%20cv.jpg)
+![cv](https://github.com/Kheira-c/images/blob/main/CV%20INTERACTIF%20GITHUB.jpg)
